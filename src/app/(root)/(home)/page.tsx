@@ -1,6 +1,6 @@
 "use client";
 
-import ActionCard from "@/components/ActionCard";
+import ActionCard from "@/components/ui_/ActionCard";
 import { QUICK_ACTIONS } from "@/constants";
 import { useUserRole } from "@/hooks/useUserRole";
 import { useQuery } from "convex/react";
